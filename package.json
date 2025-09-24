@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/sunt-sequi-quisquam-corporis",
-  "version": "13.51.456",
+  "version": "13.51.457",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -727,5 +727,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/sunt-sequi-quisquam-corporis/issues"
   },
-  "packageManager": "yarn@4.10.2"
+  "packageManager": "yarn@4.10.3"
 }
